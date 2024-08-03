@@ -1,0 +1,61 @@
+*{
+	box-sizing:border-box;
+}
+
+#bg{
+	width:100%;
+	min-height:25% !important;
+	background-image:url('./Images/bc21.jpg');	
+	padding:10%;
+	margin-top:5%
+	
+}
+#date{
+	font-size: 17px !important;
+	
+}
+
+#bride{
+	width:18%;
+	height:auto;
+	float:right;
+	border-radius:10%;
+	margin-top:-15%;
+}
+#bdet{
+	float:left;
+	margin-top:-2%;
+	font-size:110%;
+	
+}
+#brideee{
+	width:18%;
+	height:auto;
+	float:right;
+	border-radius:10%;
+	margin-top:-15%;
+}
+#bdettt{
+	float:left;
+	margin-top:-2%;
+	font-size:150%;
+	
+}
+
+#bridee{
+	width:18%;
+	height:auto;
+	float:left;
+	border-radius:10%;
+	margin-top:-15%;
+}
+#bdett{
+	float:right;
+	margin-right: 25%;
+	
+	margin-top:-2%;
+	font-size:150%;
+	
+}
+
+

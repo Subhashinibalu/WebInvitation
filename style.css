@@ -1,0 +1,135 @@
+*{
+	box-sizing:border-box;
+}
+body{
+	background-image:url('./Images/floww.jpg');
+}
+#invite{
+	
+	width:100%;
+	height:auto;
+	background-image:url('./Images/invitepic.jpg');
+	background-size:100% auto;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+}
+#info{
+
+	padding:5%;
+	color:white;
+	text-align:left;
+	font-family:MV Boli;
+	font-size:150%;
+	
+}
+#infos{
+
+	padding: 2%;
+	color:white;
+	text-align:right;
+	font-family:Arial;
+	font-size:150%;
+	
+}
+.image{
+	width:100%;
+	height:auto;
+	justify-content:center;
+	display:flex;
+	margin-top:-45px;
+}
+#logo{
+	border-radius:50%;
+	height:15%;
+	width:15%;
+}
+
+#bg{
+	width:100%;
+	height:auto;
+	background-image:url('./Images/floww.jpg');	
+	padding:15%;
+    
+}
+#groom{
+	width:30%;
+	height:auto;
+	float:left;
+	border-radius:10%;
+	margin-top:-28%;
+}
+#bride{
+	width:30%;
+	height:auto;
+	float:right;
+	border-radius:10%;
+	margin-top:-28%;
+}
+#linkg{
+	color:black;
+	padding:10px;
+	background-image:url('./Images/flow.jpg');
+	width:100%;
+	height:auto;
+	text-align:center;
+	font-family:Ink Free;
+}
+
+#panel1,#panel2,#panel3,#panel4,#flip1,#flip2,#flip3,#flip4{
+	padding:5px;
+	text-align:center;
+	
+	border:solid 1px white;
+}
+#panel1{
+	
+	padding:70px;
+	display:none;
+	background-size:100% auto;
+	background-image:url('./Images/a9.jpg');
+	opacity:0.5;
+}
+#panel2{
+	
+	padding:50px;
+	display:none;
+	background-size:100% auto;
+	background-image:url('./Images/a6.jpg');
+
+
+}
+#panel3{
+	padding:50px;
+	display:none;
+	background-size:100% auto;
+	background-image:url('./Images/a7.jpg');
+	opacity:0.5;
+	
+	
+
+}
+#panel4{
+	
+	padding:50px;
+	display:none;
+	background-size:100% auto;
+	background-image:url('./Images/a8.jpg');
+	
+}
+#end{
+	width:100%;
+	height:auto;
+	background-image:url('./Images/wed.jpg');
+	background-size:100% auto;
+}
+#infoss{
+
+	padding:15%;
+	color:white;
+	font-size:150%;
+	font-family:Segoe Print;
+	font-size:auto;
+	margin-left:-15px;
+	
+}
